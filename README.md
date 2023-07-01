@@ -1,3 +1,3 @@
-# IPython Notebook to create a word cloud from your google scholar profile
+# Create a word cloud from your google scholar profile
 
-Use the instruction in the notebook to create your word cloud.
+You can use the instruction in the notebook to create your word cloud.
